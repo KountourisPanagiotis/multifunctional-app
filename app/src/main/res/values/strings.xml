@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhoneCallsApp</string>
+    <string name="MultifunctionalApp">MultifunctionalApp</string>
+    <!--PhoneCalls-->
+    <string name="phoneNumberET">Phone Number</string>
+    <string name="dialBtn">DIAL</string>
+    <!--Emails-->
+    <string name="emailToSendTo">Send to (Email)</string>
+    <string name="Subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>
